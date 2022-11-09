@@ -24,19 +24,29 @@ Site de testes: https://myanimelist.net/
 
 2: Instalar o Node.js
 ```
+
 https://nodejs.org/en/
+
 ```
 
 3: Realizar a instalacao do cypress dentro da pasta "projeto":
     ```
+    
     npm install cypress
+    
     ```
 
 4: Para executar o projeto:
     ```
+    
     Abrir cypress pela utilizando a linha comando: ./node_modules/.bin/cypress open
-
+    
+    ```
+    
+    ```
+    
     Rodar as specs diretamente do terminal: ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'
+    
     ```
 
 ## Gerar o Relatorio de Testes:
