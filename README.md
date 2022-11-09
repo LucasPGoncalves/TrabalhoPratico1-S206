@@ -1,5 +1,5 @@
 # TrabalhoPratico1-S206
-Trabalho Pratico 1, da materia S206, sobre Teste de UI, utilizando Cypress
+Trabalho Pratico 1 da Materia S206, Teste de UI, Utilizando Cypress
 
 Site de testes: https://myanimelist.net/
 
