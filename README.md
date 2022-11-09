@@ -30,32 +30,30 @@ https://nodejs.org/en/
 ```
 
 3: Realizar a instalacao do cypress dentro da pasta "projeto":
-    ```
     
     npm install cypress
-    ```
+    
 
 4: Para executar o projeto:
-    ```
+    
     
     Abrir cypress pela utilizando a linha comando: ./node_modules/.bin/cypress open
-    ```
+   
     
-    ```
     
     Rodar as specs diretamente do terminal: ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'
-    ```
+    
 
 ## Gerar o Relatorio de Testes:
 
 1: Adicionar o mochawesome ao projeto:
-    ```
+    
     
     npm i --save-dev cypress-mochawesome-reporter
-    ```
+    
 
 2: Executar o projeto:
-    ```
+    
     
     ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'
-    ```
+    
