@@ -22,12 +22,7 @@ Site de testes: https://myanimelist.net/
 
 1: Clonar o repositorio para sua maquina.
 
-2: Instalar o Node.js
-```
-
-https://nodejs.org/en/
-
-```
+2: Instalar o Node.js => https://nodejs.org/en/
 
 3: Realizar a instalacao do cypress dentro da pasta "projeto":
 
